@@ -6,6 +6,19 @@
     <link rel="stylesheet" href="https://www.go4schools.com/src/wwwstyleguide/css/go-bootstrap.css">
   </head>
   <body>
-    <h1>Access different games here</h1>
+    <div class="header">
+      <h1>Access different games here</h1>
+    </div>
+    <button class="btn" id="blockblast">Block Blast</button>
+    <br>
+    <button class="btn" id="screenit">Error 404 page</button>
   </body>
+  <script>
+    document.getElementById("blockblast").onclick = function() {
+      location.href = "https://go4schools.github.io/projectbyp/blockblast.html";
+    }
+    document.getElementById("screenit").onclick = function() {
+      location.href = "https://go4schools.github.io/projectbyp";
+    }
+  </script>
 </html>
