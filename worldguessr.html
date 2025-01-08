@@ -12,12 +12,16 @@
     </style>
   </head>
   <body>
-    <embed height="700px" width="100%" src="https://www.worldguessr.com">
+    <embed height="800px" width="100%" src="https://www.worldguessr.com">
     <button class="btn" id="return">Return to page</button>
+    <button class="btn" id="hideit">Error Page</button>
   </body>
   <script>
     document.getElementById("return").onclick = function() {
       location.href = "indeks.html";
+    }
+    document.getElementById("hideit").onclick = function() {
+      location.href = "index.html";
     }
   </script>
 </html>
