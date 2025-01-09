@@ -3,3 +3,6 @@ Hello, this is a simple project that's helping me learn HTML while aiding certai
 
 # UPDATE 1.0.1
 - Hopefully fixed the Block Blast, Stickman Hook and Backflip 3D problem
+
+# UPDATE 1.0.2
+- Attempted to embed Friva, failed
