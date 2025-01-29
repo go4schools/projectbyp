@@ -6,3 +6,9 @@ Hello, this is a simple project that's helping me learn HTML while aiding certai
 
 # UPDATE 1.0.2
 - Attempted to embed Friva, failed
+
+# UPDATE 1.0.3
+- Discord and Cookie Clicker embed failure
+
+# UPDATE 1.0.4
+- CaseClicker embed
