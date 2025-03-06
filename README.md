@@ -5,10 +5,13 @@ Hello, this is a simple project that's helping me learn HTML while aiding certai
 - Hopefully fixed the Block Blast, Stickman Hook and Backflip 3D problem
 
 # UPDATE 1.0.2
-- Attempted to embed Friva, failed
+- Failed Friva embed
 
 # UPDATE 1.0.3
-- Discord and Cookie Clicker embed failure
+- Failed Discord and Cookie Clicker embed
 
 # UPDATE 1.0.4
 - CaseClicker embed
+
+# UPDATE 1.0.5 (6th Mar)
+- Failed Reddit embed
