@@ -15,3 +15,4 @@ Hello, this is a simple project that's helping me learn HTML while aiding certai
 
 # UPDATE 1.0.5 (6th Mar)
 - Failed Reddit embed
+- Late Pizza Edition embed
